@@ -1,0 +1,5 @@
+url: https://kadastr-reestr.ru/sitemap.xml
+log_path: ../../log/url_checker.log
+xml_path: ../../xml/sitemap.xml
+max_proc: 2
+timeout: 50
